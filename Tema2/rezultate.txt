@@ -1,0 +1,47 @@
+Schwefel's  D = 100
+Schwefel's  D = 30
+Schwefel's  D = 30
+Schwefel's  D = 30
+Schwefel's  D = 30 runs = 5
+Michalewicz's  D = 30 runs = 5
+Rastrigin's  D = 30 runs = 5
+Rastrigin's  D = 30 runs = 5
+ D = 5 runs = 30
+DeJong's  D = 5 runs = 30
+DeJong's  D = 5 runs = 30
+Rastrigin's  D = 5 runs = 30
+DeJong's  D = 5 runs = 30
+DeJong's  D = 5 runs = 30
+Rastrigin's  D = 5 runs = 30
+Schwefel's  D = 5 runs = 30
+DeJong's  D = 5 runs = 30
+Rastrigin's  D = 5 runs = 30
+Schwefel's  D = 5 runs = 30
+Michalewicz's  D = 5 runs = 30
+DeJong's  D = 10 runs = 30
+Rastrigin's  D = 10 runs = 30
+Schwefel's  D = 10 runs = 30
+Michalewicz's  D = 10 runs = 30
+DeJong's  D = 30 runs = 30
+Rastrigin's  D = 30 runs = 30
+Schwefel's  D = 30 runs = 30
+Michalewicz's  D = 30 runs = 30
+DeJong's  D = 5 runs = 30
+DeJong's  D = 5 runs = 30
+DeJong's  D = 5 runs = 30
+Rastrigin's  D = 30 runs = 30
+Rastrigin's  D = 30 runs = 30
+Rastrigin's  D = 30 runs = 5
+DeJong's  D = 5 runs = 30
+Rastrigin's  D = 5 runs = 30
+Schwefel's  D = 5 runs = 30
+Michalewicz's  D = 5 runs = 30
+DeJong's  D = 10 runs = 30
+Rastrigin's  D = 10 runs = 30
+Schwefel's  D = 10 runs = 30
+Michalewicz's  D = 10 runs = 30
+DeJong's  D = 30 runs = 30
+Rastrigin's  D = 30 runs = 30
+Schwefel's  D = 30 runs = 30
+Michalewicz's  D = 30 runs = 30
+Rastrigin's  D = 30 runs = 5

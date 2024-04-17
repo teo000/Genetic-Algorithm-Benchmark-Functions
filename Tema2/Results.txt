@@ -1,0 +1,347 @@
+
+0.00000 & 0.00000 & 0.00000 & 0.00000
+2.343832570
+0.00000 & 0.00000 & 0.00000 & 0.00000
+2.345742570
+-2094.91455 & -2094.86255 & -2094.70605 & 0.06415
+2.382742570
+-3.69885 & -3.67298 & -3.56575 & 0.02827
+1.963422570
+0.00000 & 0.00000 & 0.00000 & 0.00000
+2.811212570
+0.00000 & 0.19802 & 1.23582 & 0.44449
+2.803732570
+-4189.82666 & -4189.47461 & -4188.99854 & 0.19216
+2.930762570
+-8.66015 & -8.49006 & -8.24259 & 0.11884
+2.777372570
+0.00002 & 0.00004 & 0.00008 & 0.00001
+4.042752570
+5.95051 & 13.27659 & 21.25842 & 3.78744
+4.088042570
+-12568.42773 & -12513.32812 & -12381.25195 & 49.61734
+4.615982570
+-28.00796 & -27.03602 & -26.28210 & 0.42310
+4.853642570
+
+
+
+0.00000 & 0.00000 & 0.00000 & 0.00000
+1.551722570
+0.00000 & 0.00000 & 0.00000 & 0.00000
+1.556462570
+-2094.91455 & -2094.91406 & -2094.91260 & 0.00059
+1.683832570
+-3.69886 & -3.69886 & -3.69886 & 0.00000
+1.677242570
+0.00000 & 0.00000 & 0.00000 & 0.00000
+1.914572570
+0.00000 & 0.04120 & 1.23583 & 0.22184
+1.957492570
+-4189.82520 & -4189.48438 & -4189.10156 & 0.15573
+2.221512570
+-8.66015 & -8.57862 & -8.31379 & 0.09331
+2.267612570
+0.00001 & 0.00002 & 0.00003 & 0.00001
+3.537482570
+2.47481 & 11.94872 & 19.02419 & 4.10052
+3.609532570
+-12567.99414 & -12515.00293 & -12414.74512 & 50.00162
+4.234082570
+-27.69927 & -27.13654 & -25.85734 & 0.40613
+4.199952570
+
+
+4.94473 & 10.33814 & 17.02719 & 4.68996
+3.510512570
+
+Michalewicz's  D = 30 runs = 5
+-27.48083 & -27.21976 & -26.97875 & 0.18808
+4.315742570
+
+Schwefel's  D = 30 runs = 5
+-12568.12695 & -12540.68555 & -12465.93652 & 39.64649
+4.311622570
+
+
+crossover = 0.7
+Rastrigin's  D = 30 runs = 10
+7.17936 & 11.43495 & 16.81357 & 3.03351
+3.482292570
+Schwefel's  D = 30 runs = 10
+-12533.98242 & -12474.81445 & -12380.77930 & 53.75949
+4.266622570
+Michalewicz's  D = 30 runs = 10
+-27.71604 & -27.02880 & -26.26541 & 0.49186
+4.329332570
+
+crossover 0.8
+Rastrigin's  D = 30 runs = 10
+5.94398 & 11.19116 & 19.51826 & 3.65906
+3.488772570
+Schwefel's  D = 30 runs = 10
+-12568.31250 & -12530.37305 & -12431.59863 & 46.93321
+4.27522570
+Michalewicz's  D = 30 runs = 10
+-27.69075 & -27.32510 & -26.60618 & 0.29995
+4.309772570
+
+
+crossover 1
+Rastrigin's  D = 30 runs = 10
+6.16016 & 12.63679 & 19.25806 & 4.13282
+3.480372570
+Schwefel's  D = 30 runs = 10
+-12568.12305 & -12524.37793 & -12415.44141 & 52.71273
+4.264782570
+Michalewicz's  D = 30 runs = 10
+-27.53693 & -27.18731 & -26.79950 & 0.21815
+4.28332570
+
+
+Rastrigin's  D = 30  runs = 10  crossover = 0.9
+2.47181 & 11.81393 & 19.02536 & 4.71492
+3.473242570
+Schwefel's  D = 30  runs = 10  crossover = 0.9
+-12568.10938 & -12478.31445 & -12297.16016 & 75.56024
+4.260562570
+Michalewicz's  D = 30  runs = 10  crossover = 0.9
+-27.92426 & -27.34652 & -26.73712 & 0.37565
+4.314532570
+
+
+Rastrigin's  D = 30  runs = 10  crossover = 0.5  mutation = 1
+9.65076 & 16.40613 & 24.95412 & 4.52629
+3.440082570
+Schwefel's  D = 30  runs = 10  crossover = 0.5  mutation = 1
+-12465.52539 & -12262.34863 & -11957.53320 & 163.71587
+4.170052570
+Michalewicz's  D = 30  runs = 10  crossover = 0.5  mutation = 1
+-27.33542 & -26.96573 & -26.28337 & 0.29939
+4.189542570
+
+
+Rastrigin's  D = 30  runs = 10  crossover = 0.6  mutation = 2
+
+Rastrigin's  D = 30  runs = 10  crossover = 0.6  mutation = 2
+2.47846 & 10.29667 & 17.32113 & 4.14751
+3.482172570
+Schwefel's  D = 30  runs = 10  crossover = 0.6  mutation = 2
+-12568.00977 & -12504.83008 & -12415.65234 & 50.97307
+4.266222570
+Michalewicz's  D = 30  runs = 10  crossover = 0.6  mutation = 2
+-27.88903 & -26.91187 & -25.95154 & 0.57869
+4.27932570
+
+
+
+
+DeJong's  D = 5  runs = 30  crossover = 0.8  mutation = 2
+0.00000 & 0.00000 & 0.00000 & 0.00000
+1.576432570
+Rastrigin's  D = 5  runs = 30  crossover = 0.8  mutation = 2
+0.00000 & 0.00000 & 0.00000 & 0.00000
+1.582752570
+Schwefel's  D = 5  runs = 30  crossover = 0.8  mutation = 2
+-2094.91455 & -2094.91064 & -2094.81079 & 0.01851
+1.718682570
+Michalewicz's  D = 5  runs = 30  crossover = 0.8  mutation = 2
+-3.69886 & -3.69886 & -3.69886 & 0.00000
+1.716712570
+DeJong's  D = 10  runs = 30  crossover = 0.8  mutation = 2
+0.00000 & 0.00000 & 0.00001 & 0.00000
+1.951232570
+Rastrigin's  D = 10  runs = 30  crossover = 0.8  mutation = 2
+0.00000 & 0.12358 & 1.23582 & 0.37075
+1.958682570
+Schwefel's  D = 10  runs = 30  crossover = 0.8  mutation = 2
+-4189.82617 & -4189.41162 & -4188.89551 & 0.18273
+2.233052570
+Michalewicz's  D = 10  runs = 30  crossover = 0.8  mutation = 2
+-8.66013 & -8.60165 & -8.46344 & 0.06521
+2.234242570
+DeJong's  D = 30  runs = 30  crossover = 0.8  mutation = 2
+0.00001 & 0.00002 & 0.00002 & 0.00000
+3.401112570
+Rastrigin's  D = 30  runs = 30  crossover = 0.8  mutation = 2
+3.22787 & 12.08569 & 29.56139 & 5.90692
+3.450462570
+Schwefel's  D = 30  runs = 30  crossover = 0.8  mutation = 2
+-12568.01758 & -12518.70996 & -12377.53125 & 46.46164
+4.214452570
+Michalewicz's  D = 30  runs = 30  crossover = 0.8  mutation = 2
+-27.75190 & -27.18568 & -26.58423 & 0.32123
+4.267362570
+DeJong's  D = 5  runs = 30  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 30  runs = 30  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 30  runs = 30  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 5  runs = 1  crossover = 0.8  mutation = 2
+-3.69886 & -3.69886 & -3.69886 & 0.00000
+1.885182570
+Michalewicz's  D = 5  runs = 1  crossover = 0.8  mutation = 2
+-3.69886 & -3.69886 & -3.69886 & 0.00000
+1.874022570
+Michalewicz's  D = 5  runs = 1  crossover = 0.8  mutation = 2
+-3.69886 & -3.69886 & -3.69886 & 0.00000
+1.883582570
+Michalewicz's  D = 10  runs = 1  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 5  runs = 1  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 2  runs = 1  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 5  runs = 1  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 5  runs = 1  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 30  runs = 1  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 30  runs = 1  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 30  runs = 1  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 30  runs = 1  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 10  runs = 1  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 10  runs = 1  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 30  runs = 30  crossover = 0.8  mutation = 2
+
+Michalewicz's  D = 30  runs = 30  crossover = 0.8  mutation = 2
+-28.81142 & -28.22769 & -27.32536 & 0.32581
+4.333312570
+Michalewicz's  D = 10  runs = 30  crossover = 0.8  mutation = 2
+-9.66015 & -9.56856 & -9.33886 & 0.08793
+2.292122570
+
+Michalewicz's  D = 5  runs = 30  crossover = 0.8  mutation = 2
+-4.68766 & -4.68760 & -4.68593 & 0.00031
+1.74782570
+
+COD GRAY
+
+Schwefel's  D = 5  runs = 30  crossover = 0.8  mutation = 2
+
+Rastrigin's  D = 5  runs = 30  crossover = 0.8  mutation = 2
+
+Rastrigin's  D = 30  runs = 30  crossover = 0.8  mutation = 2
+
+Rastrigin's  D = 30  runs = 1  crossover = 0.8  mutation = 2
+0.00197 & 0.00197 & 0.00197 & 0.00000
+121.7692570
+Schwefel's  D = 30  runs = 1  crossover = 0.8  mutation = 2
+
+Rastrigin's  D = 30  runs = 1  crossover = 0.8  mutation = 2
+
+Rastrigin's  D = 30  runs = 1  crossover = 0.8  mutation = 2
+
+Schwefel's  D = 30  runs = 1  crossover = 0.8  mutation = 2
+-9914.10742 & -9914.10742 & -9914.10742 & 0.00000
+173.5352570
+
+
+Michalewicz's  D = 30  runs = 1  crossover = 0.8  mutation = 2
+-26.84148 & -26.84148 & -26.84148 & 0.00000
+117.4632570
+
+
+Michalewicz's  D = 5  runs = 30  crossover = 0.8  mutation = 2
+
+Rastrigin's  D = 5  runs = 30  crossover = 0.8  mutation = 2
+0.00000 & 0.00000 & 0.00000 & 0.00000
+5.199692570
+Rastrigin's  D = 10  runs = 30  crossover = 0.8  mutation = 2
+0.00000 & 0.00000 & 0.00001 & 0.00000
+15.86632570
+Rastrigin's  D = 30  runs = 30  crossover = 0.8  mutation = 2
+0.00051 & 1.09742 & 4.97497 & 1.31784
+122.412570
+
+PARAMETRI VARIABILI
+Rastrigin's  D = 30  runs = 1  crossover = 0  mutation = 2
+34.07440 & 34.07440 & 34.07440 & 0.00000
+4.901292570
+Rastrigin's  D = 30  runs = 1  crossover = 0  mutation = 2
+20.76496 & 20.76496 & 20.76496 & 0.00000
+3.648012570
+Rastrigin's  D = 30  runs = 1  crossover = 0  mutation = 2
+16.07733 & 16.07733 & 16.07733 & 0.00000
+3.601992570
+Michalewicz's  D = 30  runs = 1  crossover = 0  mutation = 2
+-28.17541 & -28.17541 & -28.17541 & 0.00000
+4.432662570
+Michalewicz's  D = 30  runs = 1  crossover = 0  mutation = 2
+-27.66333 & -27.66333 & -27.66333 & 0.00000
+4.442852570
+Michalewicz's  D = 30  runs = 1  crossover = 0  mutation = 2
+-27.32503 & -27.32503 & -27.32503 & 0.00000
+4.428872570
+Rastrigin's  D = 30  runs = 1  crossover = 0  mutation = 2
+9.40993 & 9.40993 & 9.40993 & 0.00000
+2.836652570
+Rastrigin's  D = 30  runs = 5  crossover = 0  mutation = 2
+10.92314 & 18.18700 & 26.40590 & 5.62719
+2.716282570
+Michalewicz's  D = 30  runs = 5  crossover = 0  mutation = 2
+-28.56591 & -28.14103 & -27.40590 & 0.39285
+3.599852570
+Rastrigin's  D = 30  runs = 5  crossover = 0  mutation = 2
+9.92359 & 13.83707 & 19.02094 & 3.04678
+2.726452570
+Rastrigin's  D = 30  runs = 5  crossover = 0  mutation = 2
+7.42333 & 12.52298 & 18.30801 & 3.82846
+3.532252570
+Schwefel's  D = 30  runs = 5  crossover = 0  mutation = 2
+-12568.33008 & -12561.10254 & -12533.66699 & 13.71906
+4.319872570
+Schwefel's  D = 30  runs = 5  crossover = 0  mutation = 2
+-12431.08203 & -12326.17871 & -12226.92578 & 84.62695
+3.238432570
+
+Schwefel's  D = 30  runs = 5  crossover = 0  mutation = 2
+
+Schwefel's  D = 30  runs = 5  crossover = 0.8  mutation = 2
+
+Schwefel's  D = 30  runs = 5  crossover = 0.8  mutation = 2
+
+Schwefel's  D = 30  runs = 5  crossover = 0.8  mutation = 2
+
+Schwefel's  D = 30  runs = 5  crossover = 0.8  mutation = 2
+-12567.80273 & -12532.44727 & -12499.54883 & 21.74676
+4.33042570
+Schwefel's  D = 30  runs = 5  crossover = 0.8  mutation = 2
+
+Rastrigin's  D = 30  runs = 5  crossover = 0.8  mutation = 2
+
+Rastrigin's  D = 30  runs = 5  crossover = 0.8  mutation = 2
+4.46997 & 10.81584 & 26.64685 & 8.18501
+3.512742570
+Rastrigin's  D = 30  runs = 5  crossover = 0.8  mutation = 2
+
+Schwefel's  D = 30  runs = 5  crossover = 0.8  mutation = 2
+-11065.25684 & -10789.40332 & -10099.67383 & 353.39871
+173.152570
+
+
+Michalewicz's  D = 30  runs = 5  crossover = 0.8  mutation = 2
+-27.72630 & -25.95503 & -25.11273 & 1.04221
+116.5692570
+
+DeJong's  D = 30  runs = 5  crossover = 0.8  mutation = 2
+0.00002 & 0.00006 & 0.00014 & 0.00004
+121.482570
+DeJong's  D = 5  runs = 5  crossover = 0.8  mutation = 2
+0.00000 & 0.00000 & 0.00000 & 0.00000
+1.633082570
+Rastrigin's  D = 5  runs = 5  crossover = 0.8  mutation = 2
+
+Schwefel's  D = 30  runs = 5  crossover = 0.8  mutation = 2
+-12567.91504 & -12540.52246 & -12499.78516 & 25.52098
+4.28772570
+Schwefel's  D = 30  runs = 5  crossover = 0.8  mutation = 2
+
+Schwefel's  D = 30  runs = 5  crossover = 0.8  mutation = 2
